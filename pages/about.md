@@ -11,9 +11,6 @@ permalink: /about/
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A data-driven data analyst who loves using Python. My passion lies in data science, machine learning, and AI. I keep myself updated with the latest developments and studies in this field. I enjoy tackling complex datasets to uncover insights.
+
+Apart from working with data, I enjoy working on personal projects that help me develop new skills.

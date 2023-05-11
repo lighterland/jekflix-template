@@ -1,26 +1,34 @@
-name: Erland Sada
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: lighterland.github.io
+title: Home | lighterland.github.io
+description: A data-centric journey through insights.
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - data analysis
+  - machine learning
+  - artificial intelligence
+  - data visualization
+  - data mining
+  - data science
+  - statistical analysis
+  - business intelligence
+  - python
 show_hero: true
 menu:
   - title: Home
     url: /
   - title: About
     url: /about
-  - title: Contact
-    url: /contact
-  - title: Feed
-    url: /feed.xml
-email: youremail@test.com
+  - title: Tags
+    url: /tags
+  # - title: Contact
+  #   url: /contact
+  # - title: Feed
+  #   url: /feed.xml
+email: lighterland@gmail.com
 # See: https://disqus.com/
-disqus_username: disqus_username
+# disqus_username: disqus_username
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+# formspree_form_id: formspree_form_id
+
+# paginate:  
