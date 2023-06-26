@@ -10,7 +10,7 @@ image: >-
 optimized_image: >-
   https://drive.google.com/uc?export=view&id=16XRxb8zh7PoTs_Tu9olKLTMvbqkBomV1
 # https://www.mentalhelp.net/content/uploads/2017/03/MentalHelpChat-iStock516454908-Gestalt-Therapy-The-Empty-Chair-Technique-1024x585.jpg
-category: project
+category: data analysis
 tags:
   - root cause
   - hr analysis

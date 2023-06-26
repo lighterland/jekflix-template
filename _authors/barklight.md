@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: barklight
+name: _barklight
 display_name: Erland
 position: Insights Alchemist
 bio: Data-savvy learner with an insatiable curiosity for uncovering insights.
@@ -11,5 +11,6 @@ github_username: lighterland
 # instagram_username: instagram_username
 linkedin_username: barklight
 medium_username: barklight
+email: lighterland@gmail.com
 ---
 

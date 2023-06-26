@@ -103,6 +103,9 @@
         {% if author.linkedin_username %}
             {% assign author_urls = author_urls | append: '"https://www.linkedin.com/in/' | append: author.linkedin_username | append: '",' %}
         {% endif %}
+        {% if author.email %}
+            {% assign author_urls = author_urls | append: '"mailto:' | append: author.email | append: '",' %}
+        {% endif %}
         {% if page.math %}
         <script>
             MathJax = {
