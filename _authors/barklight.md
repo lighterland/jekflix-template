@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: _barklight
+name: _barklight #remove _ to show
 display_name: Erland
 position: Insights Alchemist
 bio: Data-savvy learner with an insatiable curiosity for uncovering insights.
